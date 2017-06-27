@@ -1,0 +1,137 @@
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  width: 100%;  
+}
+
+body {
+  font-family: "Roboto Condensed";
+}
+
+footer {
+  text-align: center;
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+  color: #8b008b;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  font-size: 25px;
+  display: block;
+  margin: 0 auto 40px;
+}
+
+.banner {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto 30px;
+}
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  list-style: none;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;  
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: teal;
+  top: 210px;
+}
+
+h2 {
+  font-weight: bold;
+  display: block;
+  padding: 0 auto;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 10px 30px 50px 0;
+  display: block;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  padding: 0 auto;
+}
+
+h5 {
+  font-size: 20px;
+  margin: 10px 30px 50px 0;
+  display: block;
+}
+
+h6 {
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  padding: 0 auto;
+}
+
+h7 {
+  font-size: 20px;
+  padding: 0 30px 50px 0;
+  display: block;
+}
+
+h8 {
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  padding: 0 auto;
+}
+
+h9 {
+  font-size: 20px;
+  float: left;
+  margin: 10px 30px 50px 0;
+}
+
+.image1 {
+  height: 280px;
+  width: 200px;
+}
+
+.image2 {
+  height: 280px;
+  width: 200px;
+  margin-top: 5px;
+}
+
+.image3 {
+  height: 280px;
+  width: 200px;
+  margin-top: 5px;
+}
+
+.image4 {
+  height: 280px;
+  width: 200px;
+  margin-top: 20px;
+}

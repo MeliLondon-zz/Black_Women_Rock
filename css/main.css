@@ -26,7 +26,7 @@ p {
 .banner {
   max-width: 100%;
   display: block;
-  margin: 0 auto 30px;
+  background-size: 100%;
 }
 
 #gallery {

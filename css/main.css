@@ -8,11 +8,6 @@ body {
   font-family: "Roboto Condensed";
 }
 
-footer {
-  text-align: center;
-  clear: both;
-}
-
 a {
   text-decoration: none;
   color: #8b008b;
@@ -70,6 +65,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  font-weight: normal;
   margin: 10px 30px 50px 0;
   display: block;
 }
@@ -83,6 +79,7 @@ h4 {
 
 h5 {
   font-size: 20px;
+  font-weight: normal;
   margin: 10px 30px 50px 0;
   display: block;
 }
@@ -91,11 +88,12 @@ h6 {
   font-weight: bold;
   font-size: 30px;
   display: block;
-  padding: 0 auto;
+  padding: 0 0 30px 0;
 }
 
 h7 {
   font-size: 20px;
+  font-weight: normal;
   padding: 0 30px 50px 0;
   display: block;
 }
@@ -109,6 +107,7 @@ h8 {
 
 h9 {
   font-size: 20px;
+  font-weight: normal;
   float: left;
   margin: 10px 30px 50px 0;
 }

@@ -1,5 +1,5 @@
 header {
-  float: left;
+  float: center;
   margin: 0 0 30px 0;
   width: 100%;  
 }
@@ -24,9 +24,8 @@ p {
 }
 
 .banner {
-  max-width: 100%;
-  display: block;
-  background-size: 100%;
+  width: 100%;
+  z-indez: 0;
 }
 
 #gallery {

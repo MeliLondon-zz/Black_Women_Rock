@@ -2,7 +2,7 @@ header {
   margin: 0 0 30px 0;
   width: 100%;
   background-image: url('../img/banner.jpg');
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 

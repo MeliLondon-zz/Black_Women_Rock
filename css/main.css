@@ -50,6 +50,7 @@ h1 {
   font-weight: bold;
   color: teal;
   top: 210px;
+  padding: 0 auto;
 }
 
 h2 {

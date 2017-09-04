@@ -86,8 +86,7 @@ p {
 .image4 {
   height: 280px;
   width: 200px;
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 .image1,
@@ -95,5 +94,5 @@ p {
 .image3,
 .image4 {
 
-  border-radius: 15px;
+  border-radius: 20px;
 }
